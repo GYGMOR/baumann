@@ -1,0 +1,109 @@
+{
+  "hero": {
+    "headline": "Ihre Experten für makellose Sauberkeit im Innern",
+    "subheadline": "Professionelle Gebäudereinigung für Unternehmen, Verwaltungen und Privatkunden, die Wert auf höchste Sauberkeit und einen perfekten Eindruck legen.",
+    "ctaPrimary": "Unverbindlich anfragen",
+    "ctaSecondary": "Unsere Leistungen entdecken",
+    "bgImage": "/hero_office.png"
+  },
+  "services": {
+    "headline": "Ein sauberes Umfeld, in dem Sie sich wohlfühlen",
+    "subheadline": "Die Baumann Reinigungssysteme GmbH bietet professionelle Innenreinigungen für Büros, Gewerbeflächen, Liegenschaften und Privatobjekte.",
+    "items": [
+      {
+        "title": "Büro- & Gewerbereinigung",
+        "description": "Repräsentative und hygienische Büroräume mit regelmässiger Unterhaltsreinigung."
+      },
+      {
+        "title": "Liegenschafts- & Treppenhausreinigung",
+        "description": "Gepflegte Eingangsbereiche, Treppenhäuser und Gemeinschaftsräume."
+      },
+      {
+        "title": "Glas- & Fensterreinigung",
+        "description": "Streifenfreie Reinigung von Fenstern, Glasfassaden und Trennwänden."
+      },
+      {
+        "title": "Sonder- & Grundreinigung",
+        "description": "Intensive Reinigung nach Umbauten, Renovationen oder Mieterwechseln."
+      }
+    ]
+  },
+  "about": {
+    "headline": "Baumann Reinigungssysteme – Qualität aus Tradition",
+    "text1": "Seit vielen Jahren steht die Baumann Reinigungssysteme GmbH für Zuverlässigkeit, Qualität und höchste Sauberkeitsstandards. Unser Ziel ist es, Räume zu schaffen, in denen Menschen gerne arbeiten, leben und sich wohlfühlen.",
+    "text2": "Unser Team arbeitet mit modernsten Reinigungsmethoden, professioneller Ausrüstung und umweltfreundlichen Reinigungsmitteln. Diskretion, Sorgfalt und Pünktlichkeit sind für uns selbstverständlich.",
+    "stats": [
+      {
+        "value": "+10",
+        "label": "Jahre Erfahrung"
+      },
+      {
+        "value": "100%",
+        "label": "Zufriedene Kunden"
+      },
+      {
+        "value": "Top",
+        "label": "Flexible Lösungen"
+      },
+      {
+        "value": "24/7",
+        "label": "Schnell & zuverlässig"
+      }
+    ],
+    "images": [
+      "/about_team.png",
+      "/gallery_1.png",
+      "/gallery_2.png",
+      "/gallery_3.png"
+    ]
+  },
+  "benefits": {
+    "headline": "Ihre Vorteile auf einen Blick",
+    "items": [
+      {
+        "title": "Höchste Qualität"
+      },
+      {
+        "title": "Zuverlässig & Pünktlich"
+      },
+      {
+        "title": "Geschultes Personal"
+      },
+      {
+        "title": "Faire Preise"
+      }
+    ],
+    "testimonials": [
+      {
+        "text": "Seit Baumann Reinigungssysteme unsere Büros reinigt, glänzt alles. Absolut zuverlässig!",
+        "author": "M. Müller",
+        "role": "Geschäftsführer SaaS-Unternehmen"
+      },
+      {
+        "text": "Die Treppenhausreinigung wird immer perfekt erledigt. Sehr zu empfehlen. Wir sind rundum zufrieden.",
+        "author": "S. Keller",
+        "role": "Immobilienverwaltung"
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Fordern Sie jetzt Ihr persönliches Angebot an!",
+    "subheadline": "Beschreiben Sie kurz Ihr Anliegen und wir melden uns schnellstmöglich mit einem unverbindlichen Angebot bei Ihnen. \n",
+    "phone": "079 767 04 21",
+    "email": "info@baumannreinigungssysteme.ch",
+    "address1": "Pilatusweg 9",
+    "address2": "5614 Sarmenstorf"
+  },
+  "impressum": {
+    "headline": "Impressum",
+    "content": "Angaben gemäss § 5 TMG\nBaumann Reinigungssysteme GmbH\nPilatusweg 9\n5614 Sarmenstorf\nSchweiz\n\nVertreten durch:\nGeschäftsführung der Baumann Reinigungssysteme GmbH\n\nKontakt:\nTelefon: 079 767 04 21\nE-Mail: info@baumannreinigungssysteme.ch\n\nHandelsregister:\nEintragung im Handelsregister.\nRegistergericht: Kanton Aargau\nRegisternummer: CH-XXX.X.XXX.XXX-X\n\nUmsatzsteuer-ID:\nUmsatzsteuer-Identifikationsnummer gemäss Schweizerischem Mehrwertsteuergesetz: CHE-XXX.XXX.XXX MWST\n\nHaftungsausschluss:\nWir übernehmen keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Inhalte. Als Diensteanbieter sind wir gemäss allgemeinen Gesetzen für eigene Inhalte auf diesen Seiten verantwortlich."
+  },
+  "agb": {
+    "headline": "Allgemeine Geschäftsbedingungen (AGB)",
+    "content": "1. Geltungsbereich\nDiese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Dienstleistungen der Baumann Reinigungssysteme GmbH. Abweichende Vereinbarungen bedürfen der Schriftform.\n\n2. Vertragsabschluss und Leistungen\nEin Vertrag kommt erst nach schriftlicher Auftragsbestätigung zustande. Die genauen Reinigungsleistungen ergeben sich aus unserer Auftragsbestätigung.\n\n3. Zahlungsbedingungen\nDie Rechnungsstellung erfolgt monatlich oder nach erbrachter Einzelleistung. Der Rechnungsbetrag ist innerhalb von 30 Tagen netto zur Zahlung fällig.\n\n4. Haftung\nDie Baumann Reinigungssysteme GmbH haftet nur für Schäden, die nachweislich auf Vorsatz oder grobe Fahrlässigkeit unseres Personals zurückzuführen sind. Schadensmeldungen müssen innerhalb von 48 Stunden erfolgen.\n\n5. Gerichtsstand\nGerichtsstand ist der Sitz der Baumann Reinigungssysteme GmbH (Kanton Aargau). Es gilt Schweizer Recht."
+  },
+  "datenschutz": {
+    "headline": "Datenschutzerklärung",
+    "content": "1. Datenschutz auf einen Blick\nDer Schutz Ihrer persönlichen Daten ist uns sehr wichtig. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften (Schweizer DSG).\n\n2. Datenerfassung auf unserer Website\nIhre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen (z.B. über das Kontaktformular: Name, E-Mail, Telefon). Diese Daten nutzen wir ausschliesslich zur Bearbeitung Ihrer Anfrage.\n\n3. Cookies und Analyse\nUnsere Website verwendet funktionale Cookies, um die technische Funktionalität zu gewährleisten (z.B. für das Admin-Login). Wir verwenden keine aggressiven Tracking-Methoden von Drittanbietern ohne Ihre ausdrückliche Zustimmung.\n\n4. Ihre Rechte\nSie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Weiterhin steht Ihnen ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten zu."
+  }
+}
