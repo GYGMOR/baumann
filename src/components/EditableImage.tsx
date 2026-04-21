@@ -1,6 +1,5 @@
 "use client";
 import Image from "next/image";
-import { flexbox } from "framer-motion";
 import { Pencil, Trash2, PlusCircle } from "lucide-react";
 import { useAdmin } from "@/context/AdminContext";
 import { useRef, useState } from "react";
