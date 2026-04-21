@@ -26,12 +26,12 @@ export default function AdminPage() {
     <div className="min-h-[80vh] flex items-center justify-center bg-gray-50 relative overflow-hidden py-24">
       {/* Background with Gross ICT subtle branding */}
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-5 pointer-events-none">
-         <Image src="/images/logo-gross-ict-icon.png" alt="" width={800} height={800} className="object-contain" />
+         <Image src="/baumann/images/logo-gross-ict-icon.png" alt="" width={800} height={800} className="object-contain" unoptimized />
       </div>
 
       <div className="bg-white p-10 rounded-2xl shadow-[0_10px_40px_rgba(0,0,0,0.08)] w-full max-w-md relative z-10 border border-gray-100 text-center">
          <div className="mb-8 flex justify-center">
-            <Image src="/images/logo-gross-ict.png" alt="Gross ICT Admin" width={220} height={80} className="object-contain" />
+            <Image src="/baumann/images/logo-gross-ict.png" alt="Gross ICT Admin" width={280} height={100} className="object-contain" unoptimized />
          </div>
          
          {!isAdmin ? (
@@ -57,7 +57,10 @@ export default function AdminPage() {
                    Einloggen & Bearbeiten
                 </button>
              </form>
-             <p className="mt-8 text-xs text-gray-400">Powered by Gross ICT</p>
+             <div className="mt-10 pt-6 border-t border-gray-100 flex flex-col items-center gap-2">
+                <Image src="/baumann/images/logo-gross-ict-icon.png" alt="Gross ICT" width={40} height={40} className="object-contain opacity-40" unoptimized />
+                <p className="text-xs text-gray-400">Powered by Gross ICT</p>
+             </div>
            </>
          ) : (
            <>
