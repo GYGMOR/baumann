@@ -16,7 +16,8 @@ export default function About() {
   const [isUploading, setIsUploading] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
 
-  const images = content?.about?.images || ["/about_team.png", "/gallery_1.png", "/gallery_2.png", "/gallery_3.png"];
+  const rawImages = content?.about?.images || ["/about_team.png", "/gallery_1.png", "/gallery_2.png", "/gallery_3.png"];
+  const images = rawImages.map((src: string) => (src.startsWith('/') && !src.startsWith('/baumann')) ? `/baumann${src}` : src);
 
   useEffect(() => {
     // Only auto-rotate if modal is closed

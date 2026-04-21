@@ -73,7 +73,7 @@ export default function Footer() {
           <div className="flex items-center gap-4">
             <span className="text-xs uppercase tracking-widest text-white/50 relative top-[1px]">Created by</span>
             <a href="https://gross-ict.ch" target="_blank" rel="noopener noreferrer" className="opacity-80 hover:opacity-100 transition-opacity" title="Gross ICT">
-              <Image src="/images/logo-gross-ict.png" alt="Gross ICT" width={140} height={40} className="object-contain brightness-0 invert" unoptimized />
+              <Image src="/baumann/images/logo-gross-ict.png" alt="Gross ICT" width={140} height={40} className="object-contain brightness-0 invert" unoptimized />
             </a>
           </div>
         </div>

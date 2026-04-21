@@ -14,7 +14,10 @@ export default function EditableImage({ contentKey, alt, fill, width, height, cl
    }
    
    if (isLoading) return null;
-   const src = resolveValue();
+   let src = resolveValue();
+   if (src && src.startsWith('/') && !src.startsWith('/baumann')) {
+      src = `/baumann${src}`;
+   }
 
    const handleUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
       const file = e.target.files?.[0];

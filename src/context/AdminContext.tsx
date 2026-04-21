@@ -32,7 +32,7 @@ export function AdminProvider({ children }: { children: React.ReactNode }) {
   const fetchContent = async () => {
     try {
       const timestamp = new Date().getTime();
-      const res = await fetch(`/data/content.json?t=${timestamp}`);
+      const res = await fetch(`/baumann/data/content.json?t=${timestamp}`);
       const data = await res.json();
       setContent(data);
     } catch (e) {
